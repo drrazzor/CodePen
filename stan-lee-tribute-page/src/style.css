@@ -1,0 +1,116 @@
+#main{
+  display:block;
+  text-align:center;
+}
+
+
+h1 {
+  color: #737373;
+  font-size: 84px;
+  font-family: Lucida;
+  margin-top: 20px; 
+  margin-bottom: -20px; 
+  margin-left: 0px; 
+  margin-right: 0px;
+}
+
+h2{
+  color: #ED1D24;
+  font-size: 24px;
+  font-family: Garamond;
+  margin-bottom: 20px; 
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#image-caption {
+  color: #737373;
+  font-size: 16px;
+  text-align:left;
+  margin-left:165px;
+}
+
+#tribute-info{
+  color:#737373;
+  font-size:20px;
+  display:block;
+  max-width:1500px;
+  text-align:left;
+  text-justify:center;
+  margin-left:165px;
+  margin-right:165px;
+  text-indent: 50px;
+}
+
+#tribute-link{
+  color:#737373;
+  font-size:20px;
+  display:block;
+  max-width:1500px;
+  text-align:center;
+  margin-left:165px;
+  margin-right:165px;
+  text-indent: 50px;
+}
+
+.marvel-chars1{
+    display: flex;
+    margin-left:400px;
+    margin-right:450px;
+    margin-bottom:75px;
+}
+
+#image-ironman{
+    max-width: 250px;  
+    height: 250px;    
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#image-captain-america{
+    max-width: 250px;  
+    height: 250px;    
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#image-black-widow{
+    max-width: 250px;  
+    height: 250px;    
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.marvel-chars2{
+    display: flex;
+    margin-left:400px;
+    margin-right:450px;
+    margin-bottom:75px;
+}
+
+#image-Hawkeye{
+    max-width: 250px;  
+    height: 250px;    
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#image-hulk{
+    max-width: 250px;  
+    height: 250px;    
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#image-Thor{
+    max-width: 250px;  
+    height: 250px;    
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
